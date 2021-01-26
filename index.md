@@ -4,29 +4,12 @@ You can use the [editor on GitHub](https://github.com/quasar-andersen/website/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### (TEST) Field of Interest: Portfolio Optimization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src=".\fig1.png">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The image presents 2-types of optimized portfolios, with minimum variance (GMVP) and maximum sharpe ratio (MSRP). The universe consists of 5 ETFs listed in the US market.
+* IEF: 7-10year treasury
 
 ### Jekyll Themes
 
