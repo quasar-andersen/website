@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### (TEST) Field of Interest: Portfolio Optimization
 
-<img src="./fig1.png">
+<img src=".\fig1.png">
 
 The image presents 2-types of optimized portfolios, with minimum variance (GMVP) and maximum sharpe ratio (MSRP). The universe consists of 5 ETFs listed in the US market.
 * IEF: 7-10year treasury
