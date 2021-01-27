@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Profile
 
-You can use the [editor on GitHub](https://github.com/quasar-andersen/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Quasar-Andersen
+- Seoul, Korea
+- field of interest: financial machine learning & asset allocation
+- work experience: Research Associate in Asset management Dept. Meksan Co.
+- contact: creativepark777@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### (TEST) Field of Interest: Portfolio Optimization
 
@@ -10,6 +13,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 The image presents 2-types of optimized portfolios, with minimum variance (GMVP) and maximum sharpe ratio (MSRP). The universe consists of 5 ETFs listed in the US market.
 * IEF: 7-10year treasury
+
+
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/quasar-andersen/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Themes
 
